@@ -31,7 +31,7 @@ As a result of my roles as a support to teams and projects, I am a perceptive an
 
 | Project | Description | Technologies used | Testing framework |
 | --- | --- | --- | --- |
-| [PosterPop](https://github.com/ker-an/posterpop) | Final group project at Makers Academy bootcamp. This Progressive Web App allows the user to take photos of event posters and redirects them to the event website. | Backend: Google Vision API, Google Firebase. Frontend: JavaScript, Vue2, Bootstrap-Vue | Karma, Mocha, Nightwatch, Lighthouse |
+| [PosterPop](https://github.com/ker-an/posterpop) | Final group project at Makers Academy bootcamp. This Progressive Web App allows the user to take photos of event posters and redirects them to the event website. Read our collective blog [here](https://medium.com/@team_processive/) | Backend: Google Vision API, Google Firebase. Frontend: JavaScript, Vue2, Bootstrap-Vue | Karma, Mocha, Nightwatch, Lighthouse |
 | [Instasham](https://github.com/ewintram/instagram-challenge) | Instagram clone with user registration, profiles, comment and like features built in Rails | Backend: Ruby. Framework: Rails. Database: PostgreSQL. Frontend: JQuery, Bootstrap, HTML, CSS | RSpec, Capybara, Selenium |
 | [The Day Today](https://github.com/ewintram/news-summary-challenge) | Single page web app summarising the top politics stories from the Guardian using their API | Frontend: JavaScript, HTML, CSS, APIs (Guardian & Aylien) | Own test framework |
 | [Lebowski Lanes](https://github.com/ewintram/bowling-challenge) | Interactive bowling game written in JavaScript | Frontend: JavaScript, JQuery, HTML, CSS | Jasmine |
