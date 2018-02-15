@@ -29,7 +29,7 @@ As a result of my roles as a support to teams and projects, I am a perceptive an
 ## Projects
 
 
-| Project | Description | Duration | Technologies used | Testing framework |
+| Project | Description | Technologies used | Testing framework |
 | --- | --- | --- | --- |
 | [PosterPop](https://github.com/ker-an/posterpop) | Final group project at Makers Academy bootcamp. This Progressive Web App allows the user to take photos of event posters and redirect them to the event website. | Backend: Google Vision API, Google Firebase. Frontend: JavaScript, Vue2, Bootstrap-Vue | Karma, Mocha, Nightwatch, Lighthouse |
 | [Instasham](https://github.com/ewintram/instagram-challenge) | Instagram clone with user registration, profiles, comment and like features built in Rails | Backend: Ruby. Framework: Rails. Database: PostgreSQL. Frontend: JQuery, Bootstrap, HTML, CSS | RSpec, Capybara, Selenium |
