@@ -8,7 +8,7 @@ Fascinated by the dynamic nature of the tech sector, I have transitioned from a 
 
 #### Process development
 
-During my degree my design practice was process-driven, focusing on the testing of techniques and experimentation. This methodology has translated into my career through the implementation of processes across all areas of studio and project management. From streamlining financial systems to devising processes for document control on large-scale client projects, I maintained and improved these tools through analysis and review.
+During my degree, my design practice was process-driven, focusing on the testing of techniques and experimentation. This methodology has translated into my career through the implementation of processes across all areas of studio and project management. From streamlining financial systems to devising workflow approval processes on large-scale client projects, I maintained and improved these tools through analysis and review.
 
 
 #### Diligence
@@ -23,7 +23,8 @@ I have a proven record of adaptability, pushing the scope of my previous roles t
 
 #### Proactivity
 
-As a result of my roles as a support to teams and projects, I am a perceptive and proactive colleague, spotting patterns and making predictions on improvements to working environments.
+As a result of my support roles to teams and projects, I am a perceptive and proactive colleague, spotting patterns and making predictions on improvements to working environments.
+As a student at Makers Academy web development bootcamp I mentored two junior students which allowed me to reflect on my own learning whilst supporting them with the curriculum and experience.
 
 
 ## Projects
@@ -31,7 +32,7 @@ As a result of my roles as a support to teams and projects, I am a perceptive an
 
 | Project | Description | Technologies used | Testing framework |
 | --- | --- | --- | --- |
-| [PosterPop](https://github.com/ker-an/posterpop) | Final group project at Makers Academy bootcamp. This Progressive Web App allows the user to take photos of event posters and redirects them to the event website. Read our collective blog [here](https://medium.com/@team_processive/) | Backend: Google Vision API, Google Firebase. Frontend: JavaScript, Vue2, Bootstrap-Vue | Karma, Mocha, Nightwatch, Lighthouse |
+| [PosterPop](https://github.com/ker-an/posterpop) | Final group project at Makers Academy bootcamp. This Progressive Web App (best viewed on a mobile device) allows the user to take photos of event posters and redirects them to the event website. Read our collective blog to document the process [here](https://medium.com/@team_processive/) | Backend: Google Vision API, Google Firebase. Frontend: JavaScript, Vue2, Bootstrap-Vue | Karma, Mocha, Nightwatch, Lighthouse |
 | [Instasham](https://github.com/ewintram/instagram-challenge) | Instagram clone with user registration, profiles, comment and like features built in Rails | Backend: Ruby. Framework: Rails. Database: PostgreSQL. Frontend: JQuery, Bootstrap, HTML, CSS | RSpec, Capybara, Selenium |
 | [The Day Today](https://github.com/ewintram/news-summary-challenge) | Single page web app summarising the top politics stories from the Guardian using their API | Frontend: JavaScript, HTML, CSS, APIs (Guardian & Aylien) | Own test framework |
 | [Lebowski Lanes](https://github.com/ewintram/bowling-challenge) | Interactive bowling game written in JavaScript | Frontend: JavaScript, JQuery, HTML, CSS | Jasmine |
@@ -44,8 +45,8 @@ As a result of my roles as a support to teams and projects, I am a perceptive an
 
 Makers Academy is a selective twelve-week web development bootcamp. Their empowering ethos is to learn how to learn. Along with the following technical skills below, learning at Makers Academy has instilled in me best practices and the benefits of pair and mob programming.
 
-- Practices: OOP, TDD, MVC, DDD
-- Principles: Agile, XP values
+- Practices: OOP, TDD, MVC
+- Principles: Agile, XP
 - Languages: Ruby, JavaScript, HTML, CSS
 - Frameworks: Rails, Sinatra, Vue2
 - Databases: PostgreSQL, Firebase
@@ -102,3 +103,4 @@ The Innovation and Business team creates bespoke collaborations between business
 ## Interests
 
 Aside from coding I am an enthusiastic vegan cook and baker. I combine creativity and application of proven methods when adapting some of my favourite recipes to be vegan.
+I regularly attend Meetups and workshops hosted by Ladies of Code and Codebar, and other tech talks and events.
