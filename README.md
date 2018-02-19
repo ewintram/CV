@@ -44,22 +44,22 @@ As a student at Makers Academy web development bootcamp I mentored two junior st
 
 #### Makers Academy (November 2017 - February 2018)
 
-Makers Academy is a selective twelve-week web development bootcamp. Their empowering ethos is to learn how to learn. Along with the following technical skills below, learning at Makers Academy has instilled in me best practices and the benefits of pair and mob programming.
+Makers Academy is a highly selective twelve-week web development bootcamp. Their empowering ethos is to learn how to learn. Along with the following technical skills below, learning at Makers Academy has instilled in me best practices and the benefits of pair and mob programming.
 
-- Practices: OOP, TDD, MVC
+- Practices: OOP, TDD, MVC, REST
 - Principles: Agile, XP
 - Languages: Ruby, JavaScript, HTML, CSS
-- Frameworks: Rails, Sinatra, Vue2
+- Frameworks: Rails, Sinatra, Vue2, Bootstrap
 - Databases: PostgreSQL, Firebase
 - Testing frameworks: RSpec, Jasmine, Capybara, Mocha, Karma, Nightwatch, Truffle, Lighthouse
 
 #### Central Saint Martins, University of the Arts London (September 2008 - June 2011)
 
-- BA (Hons) Graphic Design & Illustration - 2:1
+BA (Hons) Graphic Design & Illustration (2:1)
 
 #### Loughborough University (September 2007 - June 2008)
 
-- Foundation Diploma in Art & Design - Distinction
+Foundation Diploma in Art & Design (Distinction)
 
 #### Other qualifications and achievements
 
@@ -68,20 +68,16 @@ Makers Academy is a selective twelve-week web development bootcamp. Their empowe
 ##### Introduction to Project Management (2011)
 
 ##### A-Levels (2007)
-- Mathematics - A
-- Photography - A
-- Graphic Design - A
+Mathematics (A), Photography (A), Graphic Design (A)
 
 ##### AS-Levels (2006)
-- Physics - A
-- Sculpture - A
+Physics (A), Sculpture (A)
 
 ##### GCSEs (2005)
-- 9 A*
-- 2 A
+9 (A*), 2 (A)
 
 ##### UKMT Intermediate Mathematics Challenge (2005)
-- Gold
+Gold
 
 ## Experience
 
@@ -94,6 +90,7 @@ NewAngle creates immersive digital experiences for brands and cultural instituti
 *Projects Assistant*
 
 Design Laboratory was a commercial agency working with brands such as Bacardi, Universal McCann and Luxottica. Senior designers and art directors mentored graduate designers from University of the Arts London in their first professional experiences.
+
 Innovation Insights Hub is a research centre to connect developments in business, technology and society with expertise inside the university resulting in innovative outcomes.
 
 #### Central Saint Martins, Innovation & Business (January 2013 - June 2014)
