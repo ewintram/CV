@@ -24,6 +24,7 @@ I have a proven record of adaptability, pushing the scope of my previous roles t
 #### Proactivity
 
 As a result of my support roles to teams and projects, I am a perceptive and proactive colleague, spotting patterns and making predictions on improvements to working environments.
+
 As a student at Makers Academy web development bootcamp I mentored two junior students which allowed me to reflect on my own learning whilst supporting them with the curriculum and experience.
 
 
@@ -103,4 +104,5 @@ The Innovation and Business team creates bespoke collaborations between business
 ## Interests
 
 Aside from coding I am an enthusiastic vegan cook and baker. I combine creativity and application of proven methods when adapting some of my favourite recipes to be vegan.
+
 I regularly attend Meetups and workshops hosted by Ladies of Code and Codebar, and other tech talks and events.
