@@ -2,7 +2,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/eleanorwintram/)
 
-Fascinated by the dynamic nature of the tech sector, I have transitioned from a career in creative industry operations to web development. Retraining as a developer has honed my systematic problem solving abilities that have grown from my background in design, mathematics and project management. Working in a business at the intersection of the digital and creative sectors fuelled my interest towards understanding the functionality behind engaging interactive design.
+Fascinated by the dynamic nature of the tech sector, I have transitioned from a career in creative industry operations to web development, through an immersive 12 week bootcamp at [Makers Academy](https://github.com/makersacademy). Retraining as a developer has honed my systematic problem solving abilities that have grown from my background in design, mathematics and project management. Working in a business at the intersection of the digital and creative sectors fuelled my interest towards understanding the functionality behind engaging interactive design. I am currently looking for a job in an exciting and innovative environment where I can continue my learning.
 
 ## Skills
 
